@@ -22,7 +22,7 @@ This integration uses Roon Core, a Roon application that runs on a machine on yo
 1. From the Home Assistant front-end, navigate to **Configuration** then **Integrations**. Under **Set up a new integration** locate 'Roon' and click **Configure**.
 2. Home Assistant will then try to find your Roon Core - if it is successful it will display `Authorize HomeAssistant in Roon`. Click **Submit** and skip to step 4
 3. If your Roon Core is not automatically found you can enter the `Hostname` or `IP address` for the Roon Core machine when requested and click **Submit**.
-4. Home Assistant will then contact your Roon Core and ask to be authorized. You will need to enable this extension in the Room Application. Go to **Settings** and then **Extensions**, there you will see an entry for Home Assistant with a button next to it. Click **Enable**.
+4. Home Assistant will then contact your Roon Core and ask to be authorized. You will need to enable this extension in the Roon Application. Go to **Settings** and then **Extensions**, there you will see an entry for Home Assistant with a button next to it. Click **Enable**.
 5. Roon core will then provide Home Assistant with the details of your media players.
 6. In Home Assistant you can then pick an area for each of your music players, and add them to Home Assistant.
 
